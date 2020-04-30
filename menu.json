@@ -1,0 +1,266 @@
+{
+    "menu": [
+        
+        {
+            "kategori" : "sushi roll",
+            "nama" : "california maki",
+            "deskripsi" : "anggap aja makanan dr california",
+            "harga": 46000,
+            "gambar":"california maki.jpg"
+        },
+        {
+            "kategori" : "sushi roll",
+            "nama" : "special o'day",
+            "deskripsi" : "yang sushi special",
+            "harga": 32000,
+            "gambar":"special o'day.jpg"
+        },
+        {
+            "kategori" : "sushi roll",
+            "nama" : "volkano sushi",
+            "deskripsi" : "pokoknya bukan dari gunung vulkanik",
+            "harga": 49000,
+            "gambar":"volcano.jpg"
+        },
+        {
+            "kategori" : "sushi roll",
+            "nama" : "deep fried roll",
+            "deskripsi" : "namanya fried tapi bukan sushi goreng",
+            "harga": 48000,
+            "gambar":"deep fried roll.jpg"
+
+        },
+        {
+            "kategori" : "sushi roll",
+            "nama" : "skin salmon sushi",
+            "deskripsi" : "yang ini dari salmon asli",
+            "harga": 44000,
+            "gambar":"skin salmon sushi.jpg"
+        },
+        {
+            "kategori" : "sushi roll",
+            "nama" : "top gun roll",
+            "deskripsi" : "sumpah ini bukan tembakan",
+            "harga": 40000,
+            "gambar":"top gun roll.jpg"
+        },
+        {
+            "kategori" : "sushi roll",
+            "nama" : "fish sushi",
+            "deskripsi" : "sushi ikan",
+            "harga": 30000,
+            "gambar":"fish sushi.jpg"
+        },
+        {
+            "kategori" : "sushi roll",
+            "nama" : "katsu mentai roll",
+            "deskripsi" : "ini sushi kesukaan ratih ya",
+            "harga": 30000,
+            "gambar":"roll.jpg"
+        },
+        {
+            "kategori" : "sushi roll",
+            "nama" : "spicy chicken roll",
+            "deskripsi" : "ini mah pokoknya pedes",
+            "harga": 35000,
+            "gambar":"spici.jpg"
+
+        },
+        {
+            "kategori" : "sashimi",
+            "nama" : "kani sushi",
+            "deskripsi" : "crab sushi",
+            "harga": 20000,
+            "gambar":"kani sushi.jpg"
+        },
+        {
+            "kategori" : "sashimi",
+            "nama" : "ebi sushi",
+            "deskripsi" : "shrimp sushi",
+            "harga": 26000,
+            "gambar":"ebi.jpg"
+
+        },{
+            "kategori" : "sashimi",
+            "nama" : "tamago sushi",
+            "deskripsi" : "egg sushi",
+            "harga": 17000,
+            "gambar":"tamago sushi.jpg"
+        },{
+            "kategori" : "sashimi",
+            "nama" : "tako sushi",
+            "deskripsi" : "octopus sushi",
+            "harga": 20000,
+            "gambar":"tako sushi.jpg"
+        },
+        {
+            "kategori" : "sashimi",
+            "nama" : "tobiko sushi",
+            "deskripsi" : "fish roe sushi",
+            "harga": 30000,
+            "gambar":"tobiko sushi.jpg"
+        },
+        {
+            "kategori" : "sashimi",
+            "nama" : "chuka kurage sushi",
+            "deskripsi" : "jellyfish sushi",
+            "harga": 28000,
+            "gambar":"chuka kurage sushi.jpg"
+        },
+        {
+            "kategori" : "udon",
+            "nama" : "beef yaki udon",
+            "deskripsi" : "ini daging ya pokonya",
+            "harga": 50000,
+            "gambar":"beef.jpg"
+        },
+        {
+            "kategori" : "udon",
+            "nama" : "chicken katsu yaki udon",
+            "deskripsi" : "ini juga av ratih",
+            "harga": 38000,
+            "gambar":"chicken katsu yaki udon.jpg"
+        },
+        {
+            "kategori" : "donburi",
+            "nama" : "chicken katsu don buri",
+            "deskripsi" : "ayam di tepungin",
+            "harga": 30000,
+            "gambar":"chicken katsu don buri.jpg"
+        },
+        {
+            "kategori" : "donburi",
+            "nama" : "chicken teriyaki don buri",
+            "deskripsi" : "ayam pake bumbu teriyaki",
+            "harga": 30000,
+            "gambar":"chicken teriyaki don buri.jpg"
+        },
+        
+        {
+            "kategori" : "donburi",
+            "nama" : "namazudon buri",
+            "deskripsi" : "blm pernah nyobain hehe",
+            "harga": 33000,
+            "gambar":"namazu.jpg"
+        },
+        {
+            "kategori" : "donburi",
+            "nama" : " katsu curry don buri",
+            "deskripsi" : "ayam pake nasi sama kuah",
+            "harga": 37000,
+            "gambar":"katsu curry don buri.jpg"
+        },
+        {
+            "kategori" : "donburi",
+            "nama" : "salmon teriyaki don buri",
+            "deskripsi" : "ikan salmon pake bumbu teriyaki pokoknya",
+            "harga": 53000,
+            "gambar":"salmon teriyaki don buri.jpg"
+        },
+        {
+            "kategori" : "donburi",
+            "nama" : "beef teriyaki don buri",
+            "deskripsi" : "ayam di tepungin",
+            "harga": 30000,
+            "gambar":"beef teriyaki don buri.jpg"
+        },
+
+
+        {
+            "kategori" : "rice bento",
+            "nama" : "chicken teppayaki ",
+            "deskripsi" : "ayam, 2 tofu + nasi",
+            "harga": 46000,
+            "gambar":"chicken teppayaki.jpg "
+        },
+        {
+            "kategori" : "rice bento",
+            "nama" : "salmon tappanyaki ",
+            "deskripsi" : "salmon  2 tofu * nasi",
+            "harga": 82000,
+            "gambar":"salmon tappanyaki.jpg"
+        },
+        {
+            "kategori" : "rice bento",
+            "nama" : "chicken teriyaki rice",
+            "deskripsi" : "ayam teriyaki, 2 bawang bombay, nasi salad",
+            "harga": 38000,
+            "gambar":"chicken teriyaki rice.jpg"
+
+        },
+        {
+            "kategori" : "rice bento",
+            "nama" : "beef tappanyaki",
+            "deskripsi" : "daging, 2tofu, nasi",
+            "harga": 61000,
+            "gambar":"beef tappanyaki.jpg"
+        },
+        {
+            "kategori" : "rice bento",
+            "nama" : "beef teriyaki rice",
+            "deskripsi" : "daging teriyaki, 2 bawang bombay, salad, nasi",
+            "harga": 47000,
+            "gambar":"rice.jpg"
+        },
+        {
+            "kategori" : "rice bento",
+            "nama" : "chicken goma fried",
+            "deskripsi" : "ayam goreng dengan saus keju dan nasi",
+            "harga": 37000,
+            "gambar":"chicken goma fried.jpg"
+        },
+        {
+            "kategori" : "rice bento",
+            "nama" : "salmon teriyaki bento",
+            "deskripsi" : "salmon teriyaki, 2 ayam karaage, 4 california roll, miso soup, salad, rice",
+            "harga": 92000,
+            "gambar":"salmon teriyaki bento.jpg"
+        },
+
+
+        {
+            "kategori" : "side dish salad",
+            "nama" : "tori kaarage",
+            "deskripsi" : "blm pernah makan heheh",
+            "harga": 30000,
+            "gambar":"tori kaarage.jpg"
+        },
+        {
+            "kategori" : "side dish salad",
+            "nama" : "gyoza",
+            "deskripsi" : "gatau",
+            "harga": 30000,
+            "gambar":"gyoza.jpg"
+        },
+        {
+            "kategori" : "side dish salad",
+            "nama" : "ichiban salad",
+            "deskripsi" : "isinya sayuran semua",
+            "harga": 30000,
+            "gambar":"ichiban salad.jpg"
+        },
+
+        {
+            "kategori" : "ramen",
+            "nama" : "beef dry ramen",
+            "deskripsi" : "daing kering ramen",
+            "harga": 38000,
+            "gambar":"beef dry ramen.jpg"
+        },
+        {
+            "kategori" : "ramen",
+            "nama" : "beef dry ramen blackpepper",
+            "deskripsi" : "ini gatau pokoknya gatau",
+            "harga": 28000,
+            "gambar":"beef dry ramen blackpepper.jpg"
+            
+        },
+        {
+            "kategori" : "ramen",
+            "nama" : "katsu dry ramen",
+            "deskripsi" : "ayam kering ramen",
+            "harga": 28000,
+            "gambar":"katsu-dry-ramen.jpg"
+        }
+    ]
+}
