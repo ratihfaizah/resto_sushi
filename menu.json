@@ -142,15 +142,7 @@
             "deskripsi" : "blm pernah nyobain hehe",
             "harga": 33000,
             "gambar":"namazu.jpg"
-        },
-        {
-            "kategori" : "donburi",
-            "nama" : " katsu curry don buri",
-            "deskripsi" : "ayam pake nasi sama kuah",
-            "harga": 37000,
-            "gambar":"katsu curry don buri.jpg"
-        },
-        {
+        },{
             "kategori" : "donburi",
             "nama" : "salmon teriyaki don buri",
             "deskripsi" : "ikan salmon pake bumbu teriyaki pokoknya",
